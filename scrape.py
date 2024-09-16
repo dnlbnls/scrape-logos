@@ -210,6 +210,3 @@ if urls:
 
     for result in results:
       print(result)
-
-    # Save the results to a CSV file
-    # append_results_to_csv(results, 'logo_results.csv')
